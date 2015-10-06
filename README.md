@@ -10,7 +10,12 @@ Nadjia.JS will soon be able to launch .sh/.js scripts. This gives you the follow
 - Off you go! Deployement should work like a charm now :)
 
 ## Getting started
-Wanna get started? Damn! Nadjia is not far enough yet. Stay tuned! We will update this soon.
+
+Install needed dependencies
+`` npm install ``
+
+Start up Nadjia.JS Server
+`` node nadjia.js ``
 
 
 ## How to Contribute
