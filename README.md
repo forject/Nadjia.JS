@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/forject/Nadjia.JS.svg)](https://travis-ci.org/forject/Nadjia.JS)
-
-# Nadjia.JS
+# Nadjia.JS [![Build Status](https://travis-ci.org/forject/Nadjia.JS.svg)](https://travis-ci.org/forject/Nadjia.JS)
 Nadjia is aimed to make the deployement of your projects as easy as possible. Nadjia hooks up to a specific branch of your repository and executes the deployement for you, if something is pushed into that branch. 
 
 ## Why use Nadjia.JS
