@@ -1,0 +1,25 @@
+{
+  "name": "nadjia.js",
+  "version": "0.0.1",
+  "description": "Nadjia is a tool for automated deployement.",
+  "main": "nadjia.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forject/Nadjia.JS.git"
+  },
+  "author": "Mathias Storm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forject/Nadjia.JS/issues"
+  },
+  "homepage": "https://github.com/forject/Nadjia.JS#readme",
+  "dependencies": {
+    "nodegit": "^0.5.0"
+  }
+}
