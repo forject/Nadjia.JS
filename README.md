@@ -5,11 +5,11 @@ Nadjia is aimed to make the deployement of your projects as easy as possible. Na
 
 ## Why use Nadjia.JS
 Nadjia.JS will soon be able to launch .sh/.js scripts. This gives you the following opportunity:
-1. Write your deployement-scripts in Node.JS or Bash
-2. Push them to your repository
-3. Add them to your Nadjia.json
-4. Install Nadjia.JS on your server and set the Repository
-5. Off you go! Deployement should work like a charm now :)
+- Write your deployement-scripts in Node.JS or Bash
+- Push them to your repository
+- Add them to your Nadjia.json
+- Install Nadjia.JS on your server and set the Repository
+- Off you go! Deployement should work like a charm now :)
 
 ## Getting started
 Wanna get started? Damn! Nadjia is not far enough yet. Stay tuned! We will update this soon.
