@@ -1,8 +1,23 @@
 var nodeGit = require('nodegit');
 
+/***
+ * The "GitHandler" class manages interactions with git servers for deployement.
+ */
 var GitHandler = {
+    /**
+     * URL of the Repository thats going to be cloned
+     */
     repoURL: '',
+
+    /**
+     * Valid path to clone the Repository to.
+     */
     savePath: '',
+
+    /**
+     * Cloning options if needed
+     */
+    cloneOptions: {},
 
     /**
      * Function for validating if the git-URL given in repoURL is
